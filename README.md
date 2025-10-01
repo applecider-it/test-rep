@@ -2,5 +2,5 @@
 
 ## xx
 
-* [test](./documents/test.md)
+* [documents](./documents)
 
